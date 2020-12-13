@@ -1,6 +1,6 @@
 <html>
 ssh tunnel
 <br>
-<iframe src="ssh_tunnel.md"></iframe>
+<iframe src="https://github.com/andy03kr/mikrotik/blob/main/ssh_tunnel.md"></iframe>
 <br>
 </html>
